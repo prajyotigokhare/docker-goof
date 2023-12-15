@@ -80,3 +80,6 @@ highlights the exact command that introduced the vulnerability, with the
 "Introduced in your Dockerfile by ..." line
 
 ![User-introduced / Dockerfile vulnerability screenshot](screenshots/user_introduced_vulnerability.png "User-introduced / Dockerfile Vulnerability")
+
+
+     snyk-test-1
